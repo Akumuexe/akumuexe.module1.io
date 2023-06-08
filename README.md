@@ -11,3 +11,5 @@ This is the app Horiseon. It teaches us quite a few tips on how we are able to i
 
 ## Screenshots
 
+![Screenshot 1](https://github.com/Akumuexe/akumuexe.module1.io/assets/119280423/31523643-9dc6-4f87-bead-c0eb5ad0a2cc)
+![Screenshot 2](https://github.com/Akumuexe/akumuexe.module1.io/assets/119280423/9ee97211-fff4-46db-bd0c-4586f058f81d)
